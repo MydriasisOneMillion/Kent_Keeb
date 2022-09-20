@@ -3,12 +3,13 @@
 ![Screenshot 2022-09-17 12 41 36 AM](https://user-images.githubusercontent.com/113202399/190840989-75555f0a-8a07-465f-bbc7-1e46c9889cff.png)
 ![Screenshot 2022-09-17 12 42 26 AM](https://user-images.githubusercontent.com/113202399/190840997-6bc06d2c-a52a-4fac-81f5-d488019c58c5.png)
 
+oh i didn't see you there, lets build a keyboard.
+
+
+
 Images from:
 https://www.youtube.com/watch?v=C7DXDCIu-1g
 great video, catchy song.
-
-oh i didn't see you there, lets build a keyboard.
-
 
 split Y/N?
 
