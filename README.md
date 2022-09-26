@@ -37,6 +37,8 @@ tiny oled(s) Y/N?
 
 joystick(s) Y/N?
 
+Tiny AI?
+
 acctually a giant mouse Y/N? (I'm not 100% sure this is possible)
 
 Other werid bullshit?
