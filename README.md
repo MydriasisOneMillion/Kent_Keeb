@@ -5,42 +5,21 @@
 
 oh i didn't see you there, lets build a keyboard.
 
-
+http://www.keyboard-layout-editor.com/
 
 Images from:
 https://www.youtube.com/watch?v=C7DXDCIu-1g
 great video, catchy song.
 
-split Y/N?
-
-size?
-
-Layout?
-
-Ortholiner or stagged?
-
-QWERTY?
-
-shape?
+Ortholiner
+QWERTy
+60%+
+2 encoders
+small track ball
 
 switchs?
+(leaning lowprofile)
 
 Caps?
-
-rgb Y/N?
-
-knob(s) Y/N?
-
-trackball y/N?
-
-tiny oled(s) Y/N?
-
-joystick(s) Y/N?
-
-Tiny AI?
-
-acctually a giant mouse Y/N? (I'm not 100% sure this is possible)
-
-Other werid bullshit?
 
 big_list of examples (https://github.com/BenRoe/awesome-mechanical-keyboard/blob/master/docs/README.md)
