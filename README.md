@@ -5,7 +5,9 @@
 
 oh i didn't see you there, lets build a keyboard.
 
-http://www.keyboard-layout-editor.com/
+http://www.keyboard-layout-editor.com/  (copy code from interview for tentive layout)
+
+
 
 Images from:
 https://www.youtube.com/watch?v=C7DXDCIu-1g
