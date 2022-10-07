@@ -1,7 +1,9 @@
-http://www.keyboard-layout-editor.com/
+http://www.keyboard-layout-editor.com/  
 Copy code blocks in to "raw data" to play around
 
+![Layouts/no_Mouse.png](https://github.com/MydriasisOneMillion/Kent_Keeb/blob/8c223a59a868e9cae23a83dd8b2005636b7b6aa9/Layouts/no_Mouse.png)
 
+```
 ["macro1",{w:1.25},"Esc","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{x:0.5},"ENC1"],
 ["macro2",{w:1.25},"Tab","Q","W","E","R","T","Y","U","I","O","P",{w:2},"Backspace"],
 [{y:-0.75,x:14.75},"ENC2"],
@@ -13,11 +15,13 @@ Copy code blocks in to "raw data" to play around
 [{y:-0.75,x:4.75,w:1.5},"enter",{w:2.75},"space","copy","paste"],
 [{y:0.25,x:12.75},"track"],
 [{y:-0.25,x:1.75},"~\n`","{\n[","}\n]",{w:1.5},"|\n\\"]
+```
 
 
+![Layouts/Mouse.png](https://github.com/MydriasisOneMillion/Kent_Keeb/blob/8c223a59a868e9cae23a83dd8b2005636b7b6aa9/Layouts/Mouse.png)
 
 
-
+```
 ["macro1",{w:1.25},"Esc","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{x:0.5},"ENC1"],
 ["macro2",{w:1.25},"Tab","Q","W","E","R","T","Y","U","I","O","P",{w:2},"Backspace"],
 [{y:-0.75,x:14.75},"ENC2"],
@@ -29,3 +33,4 @@ Copy code blocks in to "raw data" to play around
 [{y:-0.75,x:4.75,w:1.5},"enter",{w:2.75},"space","copy","paste",{x:2.5,a:7},"","",""],
 [{y:0.25,x:12.75,a:4},"track"],
 [{y:-0.25,x:1.75},"~\n`","{\n[","}\n]",{w:1.5},"|\n\\"]
+```
