@@ -1,0 +1,9 @@
+httpskbdfans.comcollectionskeycaps
+httpsepomaker.comcollectionskeycaps
+httpsdrop.commechanical-keyboardsdropssc=keycaps
+httpskeebsforall.comcollectionskeycaps
+httpsmechanicalkeyboards.comshopindex.phpl=product_list&c=40
+httpsdivinikey.comcollectionskeycap-sets
+httpskprepublic.comcollectionskeycaps
+httpsnovelkeys.comcollectionskeycaps
+httpswww.alpheriorkeys.comcollectionskeycaps
