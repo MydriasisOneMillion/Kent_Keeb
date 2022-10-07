@@ -1,7 +1,7 @@
 http://www.keyboard-layout-editor.com/  
 Copy code blocks in to "raw data" to play around
 
-![Layouts/no_Mouse.png](https://github.com/MydriasisOneMillion/Kent_Keeb/blob/8c223a59a868e9cae23a83dd8b2005636b7b6aa9/Layouts/no_Mouse.png)
+![Layouts/no_Mouse.png](https://github.com/MydriasisOneMillion/Kent_Keeb/blob/a86dca90580bc6bb3197a4320e52c35d0f6dc3dc/Layouts/no_Mouse.png)
 
 ```
 ["macro1",{w:1.25},"Esc","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{x:0.5},"ENC1"],
