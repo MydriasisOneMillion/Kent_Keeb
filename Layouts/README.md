@@ -35,6 +35,8 @@ Copy code blocks in to "raw data" to play around
 [{y:-0.25,x:1.75},"~\n`","{\n[","}\n]",{w:1.5},"|\n\\"]
 ```
 
+![keyboard-layout](https://user-images.githubusercontent.com/20171684/219969052-dead6a16-d5a2-44b1-a9cf-4e4b33110a26.jpg)
+
 [{a:6},"Esc","F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12",{a:5},"PrtSc\nNmLk","Delete\nInsert",{a:6},"macro 1"],
 [{a:4},"~\n`","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{a:6,w:2},"Backspace","macro 2"],
 [{a:4,w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","{\n[","}\n]",{w:1.5},"|\n\\",{a:6},"macro 3"],
